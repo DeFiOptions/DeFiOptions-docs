@@ -6,11 +6,11 @@ In the first case, when a writer doesn't meet the collateral requirements for co
 
 The effective volume susceptible to early liquidation is calculated using the minimum required volume for the writer to start meeting the collateral requirements again:
 
-![](../.gitbook/assets/early-liq-volume.svg)
+![](../../.gitbook/assets/early-liq-volume.svg)
 
 Here two constants are employed, k-upper and k-lower, whose difference enables the clearance of the collateral deficit in a simple manner. Once the liquidation volume is found, the liquidation value is calculated as:
 
-![](../.gitbook/assets/early-liq-value.svg)
+![](../../.gitbook/assets/early-liq-value.svg)
 
 Funds from early liquidation are transferred to the respective option token contract and held until maturity.
 

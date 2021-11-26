@@ -1,23 +1,26 @@
 # Table of contents
 
-* [What is DeFi Options?](README.md)
-* [Protocol Overview](protocol-overview.md)
-* [Roadmap](roadmap.md)
-* [Roles](roles/README.md)
-  * [Traders](roles/traders.md)
-  * [Liquidity Providers](roles/liquidity-providers.md)
-  * [Validators](roles/validators.md)
-  * [Token Holders](roles/token-holders.md)
-* [Liquidity Pool](liquidity-pool/README.md)
-  * [Investing in the Pool](liquidity-pool/investing-in-the-pool.md)
-  * [Pricing Model](liquidity-pool/pricing-model.md)
-* [Clearing System](risk-management/README.md)
-  * [Collateral Allocation](risk-management/collateral-allocation.md)
-  * [Liquidation Process](risk-management/liquidation-process.md)
-* [Governance](governance/README.md)
-  * [Protocol Settings](governance/protocol-settings.md)
-  * [Proposal Voting](governance/proposal-voting.md)
+* [DeFi Options](README.md)
+* [Security](security.md)
 * [Disclaimer](disclaimer.md)
+
+## Protocol
+
+* [Overview](protocol/protocol-overview.md)
+* [Roles](protocol/roles/README.md)
+  * [Traders](protocol/roles/traders.md)
+  * [Liquidity Providers](protocol/roles/liquidity-providers.md)
+  * [Validators](protocol/roles/validators.md)
+  * [Token Holders](protocol/roles/token-holders.md)
+* [Liquidity Pool](protocol/liquidity-pool/README.md)
+  * [Pool Deposits](protocol/liquidity-pool/investing-in-the-pool.md)
+  * [Pricing Model](protocol/liquidity-pool/pricing-model.md)
+* [Clearing System](protocol/risk-management/README.md)
+  * [Collateral Allocation](protocol/risk-management/collateral-allocation.md)
+  * [Liquidation Process](protocol/risk-management/liquidation-process.md)
+* [Governance](protocol/governance/README.md)
+  * [Protocol Settings](protocol/governance/protocol-settings.md)
+  * [Proposal Voting](protocol/governance/proposal-voting.md)
 
 ## Knowledge Base
 

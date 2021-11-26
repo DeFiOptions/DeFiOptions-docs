@@ -19,6 +19,6 @@ y = [
 
 This example snippet defines price points for a hypothetical ETH call option with strike price of US$ 1.500 and an interpolation period starting at 7 days to maturity ("t0") and ending at 6 days to maturity ("t1"), resulting in the pricing surface plotted below:
 
-![](../.gitbook/assets/surface.PNG)
+![](../../.gitbook/assets/surface.PNG)
 
 By following this approach the more heavy math is performed off-chain, since it would be unfeasible/too damn expensive to run a Monte Carlo simulation or any other option pricing method on ethereum, and actually a waste of capital, as interpolating a preprocessed discretized curve achieves similar end results with much less on-chain computational effort.

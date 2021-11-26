@@ -2,8 +2,10 @@
 
 Traders 📈 buy and sell options, and they do it for a myriad of reasons, among them:
 
-* Hedging the risk exposure of their portfolio against sudden price changes
-* Gaining exposure to markets they wouldn't have access to otherwise (ex: commodities market)
+* **Limit losses: **Hedging the risk exposure of their portfolio against sudden price changes
+* **Exposure:** Gaining exposure to markets they wouldn't have access to otherwise (ex: commodities market)
+* **Leverage:** Because options are much cheaper to purchase in comparison to the underlying asset, you can purchase more and get more upside potential
+* **Strategies:** Options allow us the flexibility to come up with many strategies that both limit risk and maximize return.
 
 In doing so traders are usually concerned with meeting two conditions:
 

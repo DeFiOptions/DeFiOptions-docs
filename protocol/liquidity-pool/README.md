@@ -6,7 +6,7 @@ Several models have been proposed and are being used in DeFi to address this cha
 
 Nonetheless a supply/demand based pricing model, such as Uniswap’s, may be unfit for pricing options, since an option price is not entirely the result of supply and demand pressures, but rather directly dependent on its underlying’s price. This observation motivated **Defi Options** to propose a linear interpolation based liquidity pool model:
 
-![](../.gitbook/assets/linear-liquidity-pool.PNG)
+![](../../.gitbook/assets/linear-liquidity-pool.PNG)
 
 On one side of the table we have options traders that interact with the pool by either buying options from it or selling options to it. The pool first calculates the target price for an option based on its internal pricing parameters (more on that latter) and then applies a fixed spread on top of it for deriving the buy price above the target price, and sell price below the target price. This spread can be freely defined by the pool operator and should be high enough for ensuring the pool is profitable, but not too high as to demotivate traders.
 
