@@ -27,3 +27,14 @@
 * [Risk Factors](knowledge-base/risk-factors/README.md)
   * [Options](knowledge-base/risk-factors/options.md)
   * [Liquidity Pool](knowledge-base/risk-factors/liquidity-pool.md)
+
+## Coding Reference
+
+* [Making a deposit](coding-reference/making-a-deposit.md)
+* [Writing options](coding-reference/writing-options.md)
+* [Collateral allocation](coding-reference/collateral-allocation.md)
+* [Liquidating positions](coding-reference/liquidating-positions.md)
+* [Burning options](coding-reference/burning-options.md)
+* [Credit tokens](coding-reference/credit-tokens.md)
+* [Linear liquidity pool](coding-reference/linear-liquidity-pool.md)
+* [Addresses](coding-reference/addresses.md)
