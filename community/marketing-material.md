@@ -10,7 +10,7 @@
 
 ## Styleguide
 
-{% embed url="https://cdn.iframe.ly/UPPoK9M" %}
+{% embed url="https://www.figma.com/file/AFWN8qL29z8upMw8FcadR8?node-id=244%3A9855" %}
 
 ## Process
 

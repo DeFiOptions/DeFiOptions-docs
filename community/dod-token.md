@@ -10,11 +10,11 @@ DOD Contract Address on **Polygon (Matic)**: [0x7e6663d14f058880fad199bcb745a81c
 
 ### Governance
 
-DOD Token is a [Broken link](broken-reference "mention") token that gives it's owners right to influence [Broken link](broken-reference "mention")via [Broken link](broken-reference "mention"). Please refer to [Broken link](broken-reference "mention")  for details.
+DOD Token is a [#governance](dod-token.md#governance "mention") token that gives it's owners right to influence [protocol-settings.md](../protocol/governance/protocol-settings.md "mention") via [proposal-voting.md](../protocol/governance/proposal-voting.md "mention"). Please refer to [token-holders.md](../protocol/roles/token-holders.md "mention") for details.
 
 ### Contributor Rewards
 
-[Broken link](broken-reference "mention")can earn DOD for bringing value to the community.
+[contributors.md](contributors.md "mention") can earn DOD for bringing value to the community.
 
 ### Community Rewards
 
