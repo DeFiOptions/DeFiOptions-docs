@@ -21,7 +21,7 @@ As seen in the [\[Proposal\] SourceCred Integration & Rewards Distribution](http
 
 ## 2. For New or Passive Content Creators: Decentralised Content Creation Process
 
-For **new** or **passive** content creators: You will get the opportunity to contribute with full creative freedom. The process bellow will prevent spreading information that is false or not aligned with the rest of the community. Please find useful resources for content in [Broken link](broken-reference "mention").
+For **new** or **passive** content creators: You will get the opportunity to contribute with full creative freedom. The process bellow will prevent spreading information that is false or not aligned with the rest of the community. Please find useful resources for content in [marketing-material.md](marketing-material.md "mention").
 
 {% embed url="https://forum.shinedao.finance/t/decentralized-content-creation/41" %}
 
