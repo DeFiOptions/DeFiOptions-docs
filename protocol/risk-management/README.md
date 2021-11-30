@@ -1,6 +1,6 @@
 # Clearing System
 
-Clearing** **denotes all activities from the time an option is written until it is settled. This process turns the promise of payment of an option's intrinsic value into the actual movement of funds from one account to another, considering the option expires in the money.
+Clearing **** denotes all activities from the time an option is written until it is settled. This process turns the promise of payment of an option's intrinsic value into the actual movement of funds from one account to another, considering the option expires in the money.
 
 Options are inherently risky [⚠️](https://emojipedia.org/warning/) and in the case of european style options writers are faced with a financial obligation towards options holders upon maturity of the option, proportional to the option intrinsic value and volume written.
 

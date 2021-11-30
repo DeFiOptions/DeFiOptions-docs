@@ -22,8 +22,15 @@
   * [Protocol Settings](protocol/governance/protocol-settings.md)
   * [Proposal Voting](protocol/governance/proposal-voting.md)
 
+## Community
+
+* [DOD Token](community/dod-token.md)
+* [Contributors](community/contributors.md)
+* [Marketing Material](community/marketing-material.md)
+
 ## Knowledge Base
 
+* [Resources](knowledge-base/resources.md)
 * [Risk Factors](knowledge-base/risk-factors/README.md)
   * [Options](knowledge-base/risk-factors/options.md)
   * [Liquidity Pool](knowledge-base/risk-factors/liquidity-pool.md)

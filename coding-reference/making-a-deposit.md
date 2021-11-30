@@ -12,7 +12,7 @@ stablecoin.approve(address(exchange), value);
 exchange.depositTokens(to, address(stablecoin), value);
 ```
 
-_Obs: An _[_EIP-2612 compatible_](https://eips.ethereum.org/EIPS/eip-2612)_ `depositTokens` function is also provided for deposit functions in a single transaction._
+_Obs: An_ [_EIP-2612 compatible_](https://eips.ethereum.org/EIPS/eip-2612) _ `depositTokens` function is also provided for deposit functions in a single transaction._
 
 After the operation completes check total exchange balance for an address using the `balanceOf` function:
 

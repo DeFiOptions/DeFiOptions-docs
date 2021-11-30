@@ -31,7 +31,7 @@ interface ILiquidityPool {
 }
 ```
 
-_Obs: _[_EIP-2612 compatible_](https://eips.ethereum.org/EIPS/eip-2612)_ `buy` and `sell` functions are also provided for trading options in a single transaction._
+_Obs:_ [_EIP-2612 compatible_](https://eips.ethereum.org/EIPS/eip-2612) _ `buy` and `sell` functions are also provided for trading options in a single transaction._
 
 Liquidity providers can call the `depositTokens` function for depositing compatible stablecoin tokens into the pool and receive pool tokens in return following a “post-money” valuation strategy, i.e., proportionally to their contribution to the total amount of capital allocated in the pool including the expected value of open option positions. This allows new liquidity providers to enter the pool at any time without harm to pre-existent providers.
 
