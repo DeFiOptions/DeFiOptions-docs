@@ -11,6 +11,8 @@ DeFi Options has been deployed to Polygon mainnet. Find the verified contracts a
 | [Linear Liquidity Pool](https://github.com/DeFiOptions/DeFiOptions-core/blob/master/contracts/pools/LinearLiquidityPool.sol) | [0xa8353943cd1b9572d46ff927c8cfe89ba0b06b19](https://polygonscan.com/address/0xa8353943cd1b9572d46ff927c8cfe89ba0b06b19) |
 | [ETH/USD feed](https://github.com/DeFiOptions/DeFiOptions-core/blob/master/contracts/interfaces/UnderlyingFeed.sol)          | [0xc6538cec5ca383217efe2c10b447d8d48453874a](https://polygonscan.com/address/0xc6538cec5ca383217efe2c10b447d8d48453874a) |
 | [BTC/USD feed](https://github.com/DeFiOptions/DeFiOptions-core/blob/master/contracts/interfaces/UnderlyingFeed.sol)          | [0x2205c21d04adc4a9d6a5f55e76aec39010bb5e72](https://polygonscan.com/address/0x2205c21d04adc4a9d6a5f55e76aec39010bb5e72) |
+| [MATIC/USD feed](https://github.com/DeFiOptions/DeFiOptions-core/blob/master/contracts/interfaces/UnderlyingFeed.sol)        | [0x822a5D26a5A8F881BF4C515E51cF00fC063C6C3C](https://polygonscan.com/address/0x822a5D26a5A8F881BF4C515E51cF00fC063C6C3C) |
+| [SOL/USD feed](https://github.com/DeFiOptions/DeFiOptions-core/blob/master/contracts/interfaces/UnderlyingFeed.sol)          | [0x2863E94bEBa09F53888887F9d647bd406a593b43](https://polygonscan.com/address/0x2863E94bEBa09F53888887F9d647bd406a593b43) |
 
 ### Kovan
 
